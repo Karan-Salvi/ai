@@ -3,6 +3,7 @@
 #include <queue>
 #include <cmath>
 using namespace std;
+// follow the step
 
 struct Cell {
     int x, y, cost, heuristic;
